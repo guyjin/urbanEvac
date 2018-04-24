@@ -38,10 +38,12 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+.gitignore
 
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
+concept art
 .apdisk
